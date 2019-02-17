@@ -1,0 +1,18 @@
+body {
+    background: #333;
+    color: teal;
+    text-align: center;
+}
+
+.color { 
+    height: 50px;
+    width: 150px;
+} 
+
+.red { background: red; }
+.orange { background: orange; }
+.yellow { background: yellow; }
+.green { background: green; }
+.blue { background: blue; }
+.indigo { background: indigo; }
+.violet { background: violet; }

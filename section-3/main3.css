@@ -1,0 +1,20 @@
+.circle {
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  background: teal;
+}
+
+.square {
+  height: 100px;
+  width: 100px;
+  background: goldenrod;
+}
+
+.rectangle {
+  height: 100px;
+  width: 170px;
+  background:orangered;
+}
+
+/*Css-tricks.com*/
